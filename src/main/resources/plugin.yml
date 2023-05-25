@@ -1,0 +1,9 @@
+name: CompressorDecompressor
+version: '${project.version}'
+main: mciitemki.mciitemki.McIitemki
+api-version: 1.19
+authors: [ kihfas ]
+commands:
+  giveCompressor:
+    usage: <command>
+    description: gives you the comperssor
